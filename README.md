@@ -13,7 +13,7 @@ We would like to investigate the customers’ preference change in Yelp reviews 
 -	Sentiment Analyzer Training: 
 We applied VADER Lexicon-Based Sentiment Analysis as unsupervised learning approach and Naive Bayes Classifier-Based Sentiment Analysis as supervised learning approach to train the analyzers and select the one with highest accuracy rate. Our objective is to use the most powerful model to predict other unlabeled reviews on other platforms for merchants. For example, some restaurants may have their own accounts on Facebook, they can receive many comments and reviews on that platform but have no idea what the attitude in reviews is without label. In this case, our model will be extremely useful in helping them interpret, understand and even build a closer relationship with customers. We believe our model can be a bridge between customers and merchants. 
 
-## Conclusion:  
+## Conclusions and Discussions:  
 1. Recommendations  
 - Restaurants should care more about the quality and the variety of food. Instead of only  having certain types of foods like American style, they should also pay attention to  decoration, service and environment of restaurants. 
 - Hotels need to shift their attention from cost-efficient to high quality, which contains  convenience, good serving, parking, reservations and comfort. In recent years, hotels may  attract customers furthermore if they could provide facilities related with entertainment like  clubs or casinos.  
